@@ -42,20 +42,20 @@
       "calories": 450,
       "type": "ice cream",
       "ingredients": [
-        "durian puree",
+        "cream",
         "condensed milk",
-        "vanilla extract"
+        "cotton candy flavoring"
       ],
       "image": "ice-cream-xtra1.svg"
     },
     {
       "name": "Vanilla Choco Chip",
       "calories": 375,
-      "type": "gelato",
+      "type": "ice cream",
       "ingredients": [
-        "raspberry puree",
-        "sugar",
-        "milk"
+        "cream",
+        "chocolate chips",
+        "vanilla extract"
       ],
       "image": "ice-cream-xtra2.svg"
     }
