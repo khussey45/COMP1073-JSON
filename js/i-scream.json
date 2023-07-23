@@ -1,7 +1,7 @@
 {
   "companyName": "Kieren Hussey Inc.",
-  "headOffice": "South Pole, Antarctica",
-  "established": 2001,
+  "headOffice": "Barrie, Ontario",
+  "established": 1996,
   "active": true,
   "topFlavors": [
     {
@@ -38,7 +38,7 @@
       "image": "strawberry-sprinkle.svg"
     },
     {
-      "name": "Dreamy Durian",
+      "name": "Cotten Candy",
       "calories": 450,
       "type": "ice cream",
       "ingredients": [
@@ -49,7 +49,7 @@
       "image": "ice-cream-xtra1.svg"
     },
     {
-      "name": "Radiant Raspberry",
+      "name": "Vanilla Choco Chip",
       "calories": 375,
       "type": "gelato",
       "ingredients": [
