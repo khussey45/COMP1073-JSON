@@ -36,6 +36,28 @@
         "candy sprinkles"
       ],
       "image": "strawberry-sprinkle.svg"
+    },
+    {
+      "name": "Dreamy Durian",
+      "calories": 450,
+      "type": "ice cream",
+      "ingredients": [
+        "durian puree",
+        "condensed milk",
+        "vanilla extract"
+      ],
+      "image": "ice-cream-xtra1.svg"
+    },
+    {
+      "name": "Radiant Raspberry",
+      "calories": 375,
+      "type": "gelato",
+      "ingredients": [
+        "raspberry puree",
+        "sugar",
+        "milk"
+      ],
+      "image": "ice-cream-xtra2.svg"
     }
   ]
 }
